@@ -1,9 +1,9 @@
 package com.designpatterns.abstractfactory.factory;
 
-import br.com.estudojava.patterns.abstractfactory.exemplo2.product.Botao;
-import br.com.estudojava.patterns.abstractfactory.exemplo2.product.BotaoWindows;
-import br.com.estudojava.patterns.abstractfactory.exemplo2.product.Painel;
-import br.com.estudojava.patterns.abstractfactory.exemplo2.product.PainelWindows;
+import com.designpatterns.abstractfactory.product.Botao;
+import com.designpatterns.abstractfactory.product.BotaoWindows;
+import com.designpatterns.abstractfactory.product.Painel;
+import com.designpatterns.abstractfactory.product.PainelWindows;
 
 /**
  * EstudosJava
