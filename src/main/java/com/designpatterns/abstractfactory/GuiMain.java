@@ -14,13 +14,8 @@ public class GuiMain {
     public static void main(String[] args) {
 
         GuiFactory windowsFactory = new WindowsGuiFactory();
-        GuiFactory linuxFactory = new LinuxGuiFactory();
-
         App windowsApp = new App(windowsFactory);
         windowsApp.configuracaoGuiApplication();;
-
-
-
 
     }
 }

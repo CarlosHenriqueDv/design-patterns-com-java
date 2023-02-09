@@ -1,9 +1,9 @@
 package com.designpatterns.abstractfactory.factory;
 
-import br.com.estudojava.patterns.abstractfactory.exemplo2.product.Botao;
-import br.com.estudojava.patterns.abstractfactory.exemplo2.product.BotaoLinux;
-import br.com.estudojava.patterns.abstractfactory.exemplo2.product.LinuxPainel;
-import br.com.estudojava.patterns.abstractfactory.exemplo2.product.Painel;
+import com.designpatterns.abstractfactory.product.Botao;
+import com.designpatterns.abstractfactory.product.BotaoLinux;
+import com.designpatterns.abstractfactory.product.LinuxPainel;
+import com.designpatterns.abstractfactory.product.Painel;
 
 /**
  * EstudosJava
